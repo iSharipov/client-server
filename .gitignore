@@ -1,0 +1,11 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea
+build
+target
+client-server-socket.iml
+client/client.iml
+common-interfaces/common-interfaces.iml
+server/server.iml
+client/target
+common-interfaces/target
+server/target
